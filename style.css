@@ -1,16 +1,18 @@
 
 body{font-family: 'Roboto', sans-serif;
+    margin: 0%;
 
     background-image: url(images/donation2.jpg);
     background-repeat: no-repeat;
     background-size: 100% 50%;
+
 
     
 
 }
 .class-title{
     text-align: center;
-    margin-top: 600px;
+    margin-top: 700px;
     color: white;
    
    
@@ -18,6 +20,7 @@ body{font-family: 'Roboto', sans-serif;
 .Donate-flood{
     color: white;
     text-align: center;
+    margin-top: 200px;
 
 }
 .button-Donate{
@@ -47,10 +50,11 @@ body{font-family: 'Roboto', sans-serif;
     text-align: center;
 }
 .box{
-    width: 60px;
+    width: 50px;
     border: 2px solid rgb(175, 23, 48);
     padding: 2px;
     margin: 5px;
+    background-color: pink;
 }
 .amount{
     text-align: center;
@@ -74,5 +78,31 @@ body{font-family: 'Roboto', sans-serif;
     margin-left: 10px;
     padding: 10px 25px;
     background-color: antiquewhite;
+    }
+
+#extra-header{
+    text-align: center;
+    margin-top: 100px;
+    color: green;
+}
+#extra-dis {
+    text-align: center;
+    margin-top:10px;
+    width:50%;
+    margin-left: 50px;
     
+}
+#extra-bonus{
+
+    display:flex;
+}
+.button-admission{
+    padding: 10px 25px;
+    background-color: rgb(223, 35, 67);
+    margin-left: 300px;
+    margin-top: 20px;
+    font-size: 18px;
+    align-items: center;
+
+
 }
