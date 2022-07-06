@@ -90,7 +90,7 @@ body{font-family: 'Roboto', sans-serif;
     text-align: center;
     margin-top:10px;
     width:50%;
-    margin-left: 50px;
+    margin-left: 150px;
     
 }
 #extra-bonus{
@@ -140,11 +140,14 @@ body{font-family: 'Roboto', sans-serif;
     display: flex;
     text-align: left;
     background-color: antiquewhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    
 
 }
 
 footer {
-
+  margin-top: 50px;
   text-align: center;
   padding: 2px;
   background-color:black;
