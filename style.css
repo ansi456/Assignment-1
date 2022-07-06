@@ -1,0 +1,78 @@
+
+body{font-family: 'Roboto', sans-serif;
+
+    background-image: url(images/donation2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+
+    
+
+}
+.class-title{
+    text-align: center;
+    margin-top: 600px;
+    color: white;
+   
+   
+}
+.Donate-flood{
+    color: white;
+    text-align: center;
+
+}
+.button-Donate{
+    padding: 10px 25px;
+    background-color: rgb(223, 35, 67);
+    margin-left: 600px;
+    margin-top: 20px;
+    font-size: 18px;
+    align-items: center;
+
+}
+
+.Today{
+
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+
+    
+}
+.taka{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.step-two{
+    text-align: center;
+}
+.box{
+    width: 60px;
+    border: 2px solid rgb(175, 23, 48);
+    padding: 2px;
+    margin: 5px;
+}
+.amount{
+    text-align: center;
+    margin-top: 10px;
+}
+.plan{
+    text-align: center;
+}
+.help{
+    text-align: center;
+
+}
+.chart{
+    width: 600px;
+    height: 300px;
+    box-shadow: 8px 8px 8px;
+}
+.main-chat{
+    display:flex;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 10px 25px;
+    background-color: antiquewhite;
+    
+}
