@@ -4,7 +4,8 @@ body{font-family: 'Roboto', sans-serif;
 
     background-image: url(images/donation2.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 50%;
+    background-size: 100% 35%;
+    
 
 
     
@@ -12,15 +13,14 @@ body{font-family: 'Roboto', sans-serif;
 }
 .class-title{
     text-align: center;
-    margin-top: 700px;
     color: white;
+    margin-top: 610px;
    
    
 }
 .Donate-flood{
     color: white;
     text-align: center;
-    margin-top: 200px;
 
 }
 .button-Donate{
@@ -44,6 +44,7 @@ body{font-family: 'Roboto', sans-serif;
 .taka{
     display:flex;
     justify-content: space-evenly;
+    margin-top: 10px;
 }
 
 .step-two{
@@ -106,3 +107,47 @@ body{font-family: 'Roboto', sans-serif;
 
 
 }
+
+
+
+.update{
+    
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+
+}
+
+#button-mail{
+    padding: 10px 25px;
+    background-color: rgb(109, 73, 79);
+    margin-left: 600px;
+    margin-top: 20px;
+    font-size: 18px;
+    align-items: center;
+
+
+}
+
+#button-sub{
+    padding: 10px 25px;
+    background-color: rgb(223, 35, 67);
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+#mail-id{
+    display: flex;
+    text-align: left;
+    background-color: antiquewhite;
+
+}
+
+footer {
+
+  text-align: center;
+  padding: 2px;
+  background-color:black;
+  color: whitesmoke;
+  display: block;
+  }
