@@ -116,8 +116,9 @@ body{font-family: 'Roboto', sans-serif;
     display: flex;
     text-align: left;
     background-color: antiquewhite;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 60px;
 }
 footer {
   margin-top: 50px;
